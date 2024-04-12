@@ -1841,3 +1841,6 @@ form label {
 }
 
 /*# sourceMappingURL=style.css.map */
+.header-image-center {
+  background-position: center!important;
+}
