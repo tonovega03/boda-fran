@@ -1812,3 +1812,9 @@ form {
 #fh5co-header{
 	background-position: center!important;
 }
+
+@media screen and (max-width: 768px) {
+	.info-image {
+		background-size: 165% 100% !important;
+	}
+}

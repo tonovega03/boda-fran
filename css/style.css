@@ -1069,8 +1069,9 @@ form label {
 }
 .couple-half h3 {
   font-family: "Sacramento", Arial, serif;
-  color: #52de86;
-  font-size: 30px;
+  color: #009688;
+  font-size: 43px;
+  font-weight: bold;
 }
 .couple-half .groom, .couple-half .bride {
   float: left;
@@ -1860,5 +1861,20 @@ form label {
     height: 69px;
   }
 }
+
+.names{
+  font-size: 45px;
+}
+
+@media screen and (max-width: 768px) {
+  .info-image {
+    background-size: 165% 100% !important;
+  }
+  .names{
+    font-size: 50px!important;
+  }
+}
+
+
 
 
